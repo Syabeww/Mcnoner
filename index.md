@@ -26,7 +26,7 @@
     <li>Boxing</li>
     <li>Hiking</li>
     <li>Travelling</li>
-    <img src="/Users/syabeww/Pictures/IMG_9724.png"
+    <img src="IMG_9724.png"
         alt="Hanoi Travel Pictures"
         width="550"
         height="400">
