@@ -26,6 +26,7 @@
     <li>Boxing</li>
     <li>Hiking</li>
     <li>Travelling</li>
+    <br>
     <img src="IMG_9724.png"
         alt="Hanoi Travel Pictures"
         width="550"
