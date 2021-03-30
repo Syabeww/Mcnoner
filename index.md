@@ -19,6 +19,7 @@
     <li>Singapore Polytechnic</li>
     <li>Sembawang Secondary School</li>
   </ul>
+  <hr>
   <h3>Hobbies</h3>
   <ol reversed>
     <li><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0224%2F6724%2F8200%2Ffiles%2Fsaenchai_5d9f3754-c7c2-41a0-a752-475f207c7182.jpg%3Fv%3D1575626613&imgrefurl=https%3A%2F%2Fasia.yokkao.com%2Fpages%2Fsaenchai-pk-muaythaigym&tbnid=3VdpjZt8iJWmMM&vet=12ahUKEwjz--mordTvAhUPTCsKHQLSAUcQMygCegUIARDJAQ..i&docid=h_lE9ILR1iyW8M&w=534&h=800&q=saenchai&ved=2ahUKEwjz--mordTvAhUPTCsKHQLSAUcQMygCegUIARDJAQ">Muay Thai</a></li>
