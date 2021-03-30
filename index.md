@@ -59,28 +59,21 @@
   <hr>
 <h3>Skills</h3>
 <table>
+  
   <tr>
-    <td><table cellspacing = '5'>
-      <tr>
-        <td>Local Food</td>
+    <td>Local Food</td>
         <td>⭐️⭐️⭐️</td>
-      </tr>
-      <tr>
-        <td>Ford Fiesta</td>
+    <td>Ford Fiesta</td>
         <td>⭐️⭐️</td>
-      </tr>
-    </table></td>
-    <td><table cellspacing = '5'>
-      <tr>
+  </tr>
+   <tr>
         <td>Likes big booty</td>
         <td>⭐️⭐️⭐️⭐️</td>
-      </tr>
-      <tr>
         <td>Likes Mcdonalds</td>
         <td>⭐️⭐️⭐️⭐️⭐️</td>
-      </tr>
-    </table></td>
   </tr>
+
+   
 </table>
   <hr>
   <h3>Contact Details</h3>
