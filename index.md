@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <table cellspacing = '20'>
+  <table>
     <td><img src="/Users/syabeww/Downloads/IMG-4680 copy 2.jpg" alt="Syabeww's picture"></td>
     <td><h1>Syabil Zayani</h1><p><em><strong>Big Ballz</strong> Man</em></p>
     <p>Travelling around the world with <a href="https://www.instagram.com/sailwithshaf/">mah best buddies!</a> </p>
