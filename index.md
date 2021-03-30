@@ -32,7 +32,7 @@
   </ol>
   <hr>
   <h3>Crew Members</h3>
-  <table border="1">
+  <table>
     <thead>
       <tr>
         <th>Name</th>
@@ -58,7 +58,7 @@
   </table>
   <hr>
 <h3>Skills</h3>
-<table border="1">
+<table>
   <tr>
     <td><table cellspacing = '5'>
       <tr>
